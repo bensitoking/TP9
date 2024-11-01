@@ -1,0 +1,23 @@
+@{
+    ViewData["Title"] = "Olvidé mi Contraseña";
+}
+
+<div class="container">
+    <h2>Recuperar Contraseña</h2>
+
+    <form asp-action="Index" method="post">
+        <div class="form-group">
+            <label for="forgotUsername">Usuario:</label>
+            <input type="text" id="forgotUsername" name="username" required />
+        </div>
+        <div class="form-group">
+            <label for="forgotPassword">Nueva Contraseña:</label>
+            <input type="password" id="forgotPassword" name="password" required />
+        </div>
+        <button type="submit" class="login-button">Cambiar Contraseña</button>
+    </form>
+
+    <div class="extra-options">
+        <p><a asp-action="Index" class="back-to-login">Volver a Iniciar Sesión</a></p>
+    </div>
+</div>
