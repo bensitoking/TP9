@@ -44,9 +44,9 @@ public class HomeController : Controller
         }
 
         [HttpPost]
-        public IActionResult GuardarUser(string username, string password)
+        public IActionResult GuardarUser(string username, string password, string mail)
         {
-            BD.AgregarUsuario(username, password);
+            BD.AgregarUsuario(username, password, mail);
             return View("Index");
         }
     }

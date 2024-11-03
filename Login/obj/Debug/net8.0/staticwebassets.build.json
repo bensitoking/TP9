@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LPo/EfIK0i3vBjNuMiCElRzMI4VT9zvItt4F3UNjXt4=",
+  "Hash": "kKZl1ituRh6oFui6GbkwOT7xtd6vYR0LxtIjX1DH6fw=",
   "Source": "Login",
   "BasePath": "_content/Login",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Login\\wwwroot",
       "Source": "Login",
-      "ContentRoot": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\",
       "BasePath": "_content/Login",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\css\\site.css",
       "SourceId": "Login",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\",
       "BasePath": "_content/Login",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\favicon.ico",
       "SourceId": "Login",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\",
       "BasePath": "_content/Login",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\js\\site.js",
       "SourceId": "Login",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\",
       "BasePath": "_content/Login",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Login",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\",
       "BasePath": "_content/Login",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Login",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\",
       "BasePath": "_content/Login",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Login",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\",
       "BasePath": "_content/Login",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Login",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\",
       "BasePath": "_content/Login",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Login",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\",
       "BasePath": "_content/Login",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Login",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\",
       "BasePath": "_content/Login",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Login",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\",
       "BasePath": "_content/Login",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Login",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\",
       "BasePath": "_content/Login",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Login",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\",
       "BasePath": "_content/Login",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Login",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\",
       "BasePath": "_content/Login",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Login",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\",
       "BasePath": "_content/Login",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Login",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\david\\Desktop\\TP9\\Login\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\wwwroot\\",
       "BasePath": "_content/Login",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
