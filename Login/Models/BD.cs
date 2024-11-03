@@ -4,14 +4,14 @@ namespace Login.Models;
 
 public class BD
 {
-    private static string ConnectionString = @"Server=PC-GAMER\SQLEXPRESS;DataBase=Green Gains;Trusted_Connection=True;";
+    private static string ConnectionString = @"Server=DESKTOP-TOMI\SQLEXPRESS;DataBase=Green Gains;Trusted_Connection=True;";
 
-    public static void AgregarUsuario(string username, string password)
+    public static void AgregarUsuario(string username, string password, string mail)
     {
         using (SqlConnection db = new SqlConnection(ConnectionString))
         {
-            string sql = "INSERT INTO Usuario (username, password) VALUES (@pUsername, CONVERT(varchar(32), HASHBYTES('md5', @pPassword), 2))";
-            db.Execute(sql, new { pUsername = username, pPassword = password });
+            string sql = "INSERT INTO Usuario (username, password, mail) VALUES (@pUsername, CONVERT(varchar(32), HASHBYTES('md5', @pPassword), 2), @pMail)";
+            db.Execute(sql, new { pUsername = username, pPassword = password, pMail = mail });
         }
     }
 

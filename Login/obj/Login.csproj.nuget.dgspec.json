@@ -1,30 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\david\\Desktop\\TP9\\Login\\Login.csproj": {}
+    "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\Login.csproj": {}
   },
   "projects": {
-    "c:\\Users\\david\\Desktop\\TP9\\Login\\Login.csproj": {
+    "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\Login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\david\\Desktop\\TP9\\Login\\Login.csproj",
+        "projectUniqueName": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\Login.csproj",
         "projectName": "Login",
-        "projectPath": "c:\\Users\\david\\Desktop\\TP9\\Login\\Login.csproj",
-        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\david\\Desktop\\TP9\\Login\\obj\\",
+        "projectPath": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\Login.csproj",
+        "packagesPath": "C:\\Users\\Tomas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tomas\\OneDrive\\Escritorio\\TP9\\TP9\\Login\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Tomas\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -76,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
